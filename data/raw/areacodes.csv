@@ -1,0 +1,55 @@
+area_id,area_name,area_squad,employee_id,created_at,updated_at,deleted_at,temp_column,area_distance_to_airport,airport_pickup_price_idr,area_airport_name,region_id
+A0000,Undefined,,,,,,,,,,
+A0001,Yogyakarta,3,E0028,,2023-05-17 04:14,,,30 minutes,,Adi Sucipto (JOG),2
+A0002,Uluwatu,2,E0015,,2022-10-07 06:34,,,1 hour,325000,Ngurah Rai (DPS),1
+A0003,Canggu,2,E0014,,2022-10-07 06:34,,,1 hour,325000,Ngurah Rai (DPS),1
+A0004,Ubud,2,E0042,,2022-10-07 06:34,,,2 hours,585000,Ngurah Rai (DPS),1
+A0005,Jakarta,3,E0001,,2022-10-07 05:25,,,,300000,,
+A0006,Bandung,3,E0001,,,,,,,,
+A0007,Phuket,2,E0042,,,,,,,,
+A0008,Bingin,1,E0036,,2022-10-07 06:34,,,45 minutes,325000,Ngurah Rai (DPS),1
+A0009,Balangan,1,E0004,,2022-10-07 07:04,,,45 minutes,325000,Ngurah Rai (DPS),1
+A0010,Jimbaran,1,E0013,,2022-10-07 06:34,,,30 minutes,260000,Ngurah Rai (DPS),1
+A0011,Ungasan,1,E0013,,2022-10-07 06:34,,,45 minutes,325000,Ngurah Rai (DPS),1
+A0012,Nusa Dua,1,E0013,,2022-10-07 06:34,,,45 minutes,325000,Ngurah Rai (DPS),1
+A0013,Padang Padang,2,E0037,,2022-10-07 06:34,,,1 hour,325000,Ngurah Rai (DPS),1
+A0014,Gili Trawangan,2,E0042,,,,,,,,
+A0015,Seminyak,2,E0014,,2022-10-07 06:34,,,45 minutes,195000,Ngurah Rai (DPS),1
+A0016,Kuta,2,E0014,,2021-06-15 07:11,,,30 minutes,250000,Ngurah Rai (DPS),1
+A0017,Singapore,2,E0042,,,,,,,,
+A0018,Cemagi,2,E0014,,2021-06-15 07:11,,,1 hour,300000,Ngurah Rai (DPS),1
+A0019,Penang,2,E0042,,,,,,,,
+A0020,Nusa Penida,4,E0017,,2021-06-15 07:11,,,60 minutes,,Ngurah Rai (DPS),3
+A0021,Gili Air,2,E0042,2018-07-02 16:51,,,,,,,
+A0022,Sanur,2,,2019-09-30 08:36,2021-06-15 07:11,,,1 hour,250000,Ngurah Rai (DPS),1
+A0023,test,2,345232,2020-03-08 09:17,,,,,,,
+A0024,Tabanan,2,,2021-05-18 14:11,2023-06-20 05:59,,,,600000,Ngurah Rai (DPS),1
+A0025,Singaraja,2,,2021-10-06 02:13,,,,,,,1
+A0026,Dalung,0,,2022-04-12 12:22,2024-02-05 06:50,,,,,,1
+A0027,Kintamani,0,,2022-06-24 12:22,2023-06-20 06:13,,,3 hours,700000,Ngurah Rai (DPS),1
+A0028,Karangasem,5,,2022-09-22 01:55,2024-02-05 06:50,,,,650000,Ngurah Rai (DPS),1
+A0029,Mengwi,2,,2022-10-07 09:16,2024-02-05 06:50,,,,,,1
+A0030,Berawa,2,,2022-10-07 09:16,2024-02-05 06:50,,,,,,1
+A0031,Pererenan,2,,2022-10-07 09:16,2024-02-05 06:50,,,90 minutes,350000,Ngurah Rai (DPS),1
+A0032,Umalas,2,,2022-10-07 09:18,2023-03-27 02:21,,,1 hour,325000,Ngurah Rai (DPS),1
+A0033,Greece,0,,2023-04-07 05:16,2023-04-13 05:37,,,,0,,
+A0034,Ngurah Rai Aiport,0,,2023-04-07 05:16,,,,,,,
+A0035,Kutuh,1,,2023-04-27 06:11,,,,,,,1
+A0036,Nusa Ceningan,0,,2023-06-08 08:39,2024-02-05 06:51,,,,,,1
+A0037,Pecatu,0,,2023-07-25 06:15,2024-02-05 06:51,,,,,,1
+A0038,Sinduharjo,0,,2023-09-02 03:23,,,,,,,2
+A0039,Tamantirto,0,,2023-09-02 03:23,,,,,,,2
+A0040,Gunungketur,0,,2023-09-02 03:23,,,,,,,2
+A0041,Panembahan,0,,2023-09-02 03:23,,,,,,,2
+A0042,Sariharjo,0,,2023-09-02 03:23,,,,,,,2
+A0043,Ngupasan,0,,2023-09-02 03:23,,,,,,,2
+A0044,Banguntapan,0,,2023-09-02 03:23,,,,,,,2
+A0045,Timbulharjo,0,,2023-09-02 03:23,,,,,,,2
+A0046,Baciro,0,,2023-09-02 03:23,,,,,,,2
+A0047,Maguwoharjo,0,,2023-09-02 03:23,,,,,,,2
+A0049,Sinduadi,0,,2023-09-02 03:23,,,,,,,2
+A0050,Caturtunggal,0,,2023-09-02 03:23,,,,,,,2
+A0051,Bedugul,0,,2023-09-07 03:13,2024-02-05 06:51,,,,,,1
+A0052,Kerobokan,0,,2023-10-09 03:29,2023-10-09 03:32,,,,,,1
+A0053,Ketewel,0,,2023-11-16 08:31,2024-02-05 06:51,,,,,,1
+A0054,Tumbah Bayuh,0,,2024-03-25 03:03,,,,,,,

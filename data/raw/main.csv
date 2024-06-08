@@ -1,0 +1,484 @@
+property_id,unit_id,average_baseline_price,bedroom,bathroom,beds,capacity,ac,balcony,beachfront,breakfast,building_staff,cable_tv,essentials,garden,gym,hair_dryer,hanger,heating,hot_water,kitchen,linens,lock,luggage_drop_off,parking,pool,private_entrance,shampoo,tv,washer,wifi,workspace,lat,lng,property_name,property_direction,property_type,property_design,area_id,distance_to_coastline
+PR0017,UN0026,382585.1004521964,1,1,1,2,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,1,1,1,0,0,0,1,1,-8.6562111,115.1328668,Double D Guest House,"Double''D Guest House, Jalan Nelayan, Canggu, Kabupaten Badung, Bali",4,0,A0003,
+PR0045,UN1518,484739.10964617215,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,1,1,0,0,1,-8.698719,115.1638456,Melin Inn,"Melin Inn, Legian, Kabupaten Badung, Bali",3,0,A0015,
+PR0051,UN1471,707956.6111111111,3,2,3,6,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1,0,1,1,,,Omah JeTeHa,"Jl. Sorowajan Baru, perum Jogja Town House 3 no. B-1",1,0,A0044,
+PR0055,UN1417,740319.584875541,3,2,3,7,1,1,0,0,0,0,1,1,0,0,1,0,1,1,1,0,0,1,0,1,0,1,1,0,1,-7.8317661,110.3806358,Griya Wirosaban,"Jl. Ki Ageng Pemanahan, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191",1,0,A0001,
+PR0065,UN1392,2154133.2464419478,8,8,8,6,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,1,1,1,1,1,0,1,1,,,Pendopo 26,,2,0,A0001,
+PR0070,UN1359,356952.5649070211,1,,,,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,1,,,Kubu Pande Homestay,"Jl. Nelayan No.16, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",4,2,A0003,
+PR0120,UN0165,785923.3582842364,1,2,1,2,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,-8.805646,115.113378,Bingin Ombak,"54V7+Q8H, Pecatu, South Kuta, Badung Regency, Bali 80361",4,0,A0008,15.6035
+PR0126,UN0219,374917.03929792735,1,1,1,2,1,1,0,0,1,0,1,1,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,1,-8.6464854,115.1504805,Comeback Guesthouse,"Come back guest house by Bali Sunny Cabin, Jalan Pura Beten Kepuh, Tibubeneng, Kabupaten Badung, Bali",4,0,A0003,
+PR0135,UN0355,801411.8219537815,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,-8.8159092,115.1032015,Kampung Jimba,"Kampung Jimba, Jalan Umpeng Sari, Pecatu, Kabupaten Badung, Bali",5,0,A0013,
+PR0140,UN0468,510878.45833048574,1,1,1,2,1,0,0,1,1,0,1,0,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,,,Lebak Guesthouse,"Jl. Nelayan No.22D, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",4,0,A0003,
+PR0160,UN0347,584718.0197286308,1,1,1,2,1,0,0,0,1,0,1,1,0,0,1,0,1,1,1,1,1,1,1,0,0,1,0,1,1,-8.6509795,115.1367864,Kakol Guesthouse,"Kakol Homestay by Bukit Vista, Jalan Pantai Batu Bolong, Canggu, Kabupaten Badung, Bali",4,0,A0003,
+PR0170,UN0153,605612.8883594741,1,1,1,2,1,1,0,0,0,0,1,1,0,0,1,0,1,0,1,0,1,1,1,0,0,0,0,1,1,,,Bingin Surf Left,"54R8+JXR, Pecatu, South Kuta, Badung Regency, Bali 80361",4,0,A0008,
+PR0172,UN0173,566867.6996240236,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,1,-8.8195056,79.2305121,Bobby''s Place,"Bobby''s Surf Place, Jalan Pantai Suluban, Pecatu, Kabupaten Badung, Bali",4,0,A0002,
+PR0181,UN0263,390062.72291759856,1,1,1,2,1,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,,,Dinar Hills Villa,"Jl. Melasti II, Kutuh, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",4,0,A0011,
+PR0188,UN0382,583219.2599623564,1,1,1,2,1,0,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,1,1,1,1,1,-8.8284397,115.0879669,Kubu Nyang Nyang,"Jl. Raya Uluwatu Pecatu No.500, Pecatu, Kuta Sel., Kabupaten Badung, Bali 80361",4,3,A0002,307.225
+PR0196,UN0672,5330189.587731917,3,3,3,8,1,1,1,0,0,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,-8.8361902,115.2066422,NDBV Lot 6,"Jl. Raya Nusa Dua Selatan, Sawangan, Nusa Dua, Kabupaten Badung, Bali 80363",2,0,A0012,79.6941
+PR0197,UN0688,345024.68099566386,1,1,1,2,1,1,1,0,0,0,1,1,0,0,1,0,1,0,1,1,0,1,0,1,0,0,0,1,1,-8.8122207,115.1005014,Padang Padang View,"Padang Padang View by Bukit Vista, Jalan Labuansait, Pecatu, Kabupaten Badung, Bali",4,0,A0013,
+PR0229,UN0236,603089.2478461018,1,1,1,2,1,1,0,1,1,1,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,,,D''Padang,"Jl. Pantai Padang-Padang No.909x, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",4,0,A0013,
+PR0234,UN0333,515001.20079641,1,1,1,2,1,1,0,1,1,1,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,,,Jepun Sari,,4,0,A0008,
+PR0241,UN0601,950485.6684204389,2,2,2,4,1,1,0,0,1,0,1,1,0,0,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,-8.652147,115.132308,ME Villa Batu Mejan,"ME Villas, Jalan Batu Mejan Canggu, Canggu, Kabupaten Badung, Bali",2,0,A0003,761.362
+PR0242,UN0671,5059470.22282313,3,4,3,8,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,-8.8358803,115.2066574,NDBV Lot 3,"Jl. Raya Nusa Dua Selatan, Sawangan, Nusa Dua, Kabupaten Badung, Bali 80363",2,0,A0012,107.471
+PR0261,UN0120,388012.25288970285,3,,,,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,1,,,Balangan Cottages,,4,0,A0009,
+PR0276,UN0256,1955658.6840899028,3,3,3,6,1,1,0,1,0,0,1,1,0,0,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,,,De Kutuh Villa,"Kutuh, South Kuta, Badung Regency, Bali",2,0,A0011,
+PR0281,UN0331,2017943.8692121212,3,3,3,8,1,0,0,0,1,0,1,0,0,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,,,Hyarta Residence,"Jl. Palagan Tentara Pelajar, Karang Moko, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581",2,4,A0001,
+PR0282,UN0366,845822.0385860074,1,1,1,2,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,1,1,-8.8063269,115.11306,Kembang Kuning,"Jl. Pantai Bingin, Pecatu, Kuta Sel., Kabupaten Badung, Bali 80361",4,0,A0008,48.2584
+PR0284,UN0389,727500.0,4,,,,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,1,0,0,0,1,1,,,Kukuh House,,4,0,A0004,
+PR0286,UN0425,1581661.517864443,1,1,1,3,1,1,1,1,0,0,1,1,0,1,1,0,1,0,1,0,1,1,1,1,1,0,0,1,1,,,La Joya 1,"La Joya - Balangan Resort, Jl. Pantai Balangan, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",5,0,A0009,
+PR0288,UN0477,651731.029267767,1,1,1,2,1,0,0,1,1,0,1,0,0,0,1,0,1,0,0,1,1,1,1,0,1,1,0,1,1,,,Lebak Residence,"Jl. Pantai Batu Bolong No.23, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",4,0,A0003,
+PR0293,UN0664,1547014.794,1,1,1,2,1,1,0,1,1,0,1,1,0,0,1,0,1,1,1,1,1,1,0,1,0,1,0,1,1,-7.8064016,110.3657658,Ndalem Panembahan,"Jl. Mangunnegaran Kidul No.12, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131",4,0,A0001,
+PR0294,UN0677,398073.17180293356,1,1,1,2,1,1,0,1,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0,1,0,1,0,1,1,-7.802683,110.360967,Omah Gerjen 29,"Jl. Nyai Ahmad Dahlan No.29, Ngupasan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55122",4,0,A0043,14402.1
+PR0308,UN1671,443775.0,1,,,,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0,1,0,,,Lotus Bungalow,,4,3,A0020,
+PR0314,UN1722,259582.2575677111,1,1,1,2,1,1,0,0,0,0,1,1,0,0,1,0,1,0,0,1,0,1,0,1,1,0,0,1,1,-8.835812,115.118645,Breeze Hidden Village,"Breeze Hidden Village by Bukit Vista, Pecatu, Kabupaten Badung, Bali",4,1,A0002,1133.15
+PR0316,UN1732,1476799.6153846155,5,3,5,5,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,1,1,1,0,1,1,,,Dalem Pinarak,"Jl. Bugisan, Dongkelan Kauman, Tirtonirmolo, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55184",1,1,A0001,
+PR0326,UN1759,367902.82828282827,1,1,1,2,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0,1,1,1,1,1,,,Bedjo Homestay,"Jalan Inspeksi Selokan Mataram Pogung Dalangan No. 299, RT. 10 RW. 50, Sinduadi, Mlati, Pogung Kidul, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284",4,4,A0001,
+PR0327,UN1763,451500.35714285716,1,1,1,2,1,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,1,1,1,1,1,-7.7606247,110.3715589,Dasinem Family Homestay,"Pogung Dalangan Rt 011/050 Mlati, Pogung Kidul, Sinduadi, Sleman, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284",4,4,A0001,
+PR0328,UN1767,344414.0,1,1,1,2,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,1,0,,,Butterfly Bali Guest House,"Jalan pantai berawa gang, Jl. Pura Beten Kepuh No.10, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",4,4,A0003,
+PR0336,UN1802,895371.2173913043,1,1,1,2,1,1,1,1,0,0,1,1,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,1,,,Ocean Terrace,"Batununggul, Nusapenida, Klungkung Regency, Bali 80771",5,3,A0020,
+PR0340,UN1827,636205.8823529412,1,1,1,2,1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0,1,1,0,1,1,,,Griya Anggrek,"Jl. Sunan Kudus No.1, RT.03, Brajan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183",4,1,A0039,
+PR0345,UN1862,317952.8525784753,1,1,1,2,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0,0,1,1,-8.6788807,115.4900163,Ba Bar Cottages,"Jl. Raya Toya Pakeh - Ped, Ped, Nusapenida, Kabupaten Klungkung, Bali 80771",4,1,A0020,
+PR0352,UN0042,827914.1711621712,3,3,3,6,1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,1,0,1,1,1,1,0,0,1,1,,,Mega Land Guesthouse,"Batumulapan, Nusapenida, Kabupaten Klungkung, Bali 80771",4,4,A0020,
+PR0353,UN1896,828188.492063492,2,2,2,0,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,1,1,0,1,0,,,Omah Kuning,"Jl. Namburan Kidul No.14, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131",1,1,A0001,
+PR0361,UN1926,349113.90476190473,1,1,1,2,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,1,1,0,1,1,-7.7565664,110.3917822,Antasena Bed & Breakfast,,4,1,A0001,
+PR0363,UN1944,608062.8822350489,1,1,1,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,1,1,0,1,1,-8.81394,115.1096954,Despacito Loft & Lounge,"Jl. Labuansait, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",4,3,A0013,616.825
+PR0366,UN1970,329727.9423353293,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,1,-8.675762,115.56743,Kinton Guesthouse,"Batununggul, Nusapenida, Kabupaten Klungkung, Bali 80771",4,1,A0020,121.038
+PR0370,UN1999,1853777.7777777778,3,3,3,4,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1,1,-7.7287222,110.3845639,D''House of Gembala,"Jl. Sawah Joglo 14-12, Ngentak, Sinduharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581",1,4,A0038,
+PR0371,UN2000,367520.68801897985,1,1,1,2,1,1,0,1,0,0,1,0,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0,1,1,-8.709399,115.586846,Goa Giri Hill Bungalow,"Suana, Nusapenida, Kabupaten Klungkung, Bali 80771",4,1,A0020,65.8603
+PR0380,UN2021,396504.4586935639,1,1,1,2,1,1,1,1,0,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,,,Manta Cottage,"Manta cottages, nusapenida, Batununggul, klungkung, Klungkung Regency, Bali 80771",4,4,A0020,
+PR0383,UN2044,434907.4474789916,1,1,1,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,1,0,1,1,-8.688048,115.579662,Boga Segara,"Batununggul, Nusapenida, Klungkung Regency, Bali 80771",4,3,A0020,45.9017
+PR0385,UN2057,343937.9259259259,1,1,1,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,1,1,-8.6886037,115.5769353,Bamboo Bungalows,"Jl. Raya Batumulapan, Batununggul, Nusapenida, Kabupaten Klungkung, Bali 80771",4,1,A0020,
+PR0386,UN2065,330070.7508417508,1,1,1,3,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,1,1,-8.6973563,115.5802116,Pari Manta Cottages,"Jalan  Batumulapan, Batununggul Nusa Penida, Kabupaten Klungkung, Bali 80771",4,1,A0020,
+PR0390,UN2071,414375.0197368421,1,1,1,2,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,1,0,1,1,0,1,1,,,Poedja Villa Jimbaran,,2,3,A0010,
+PR0404,UN2153,551612.3899377318,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,-8.654761,115.13041,Kamisama Homestay,"Kamisama homestay, Canggu, Kabupaten Badung, Bali",4,4,A0003,406.362
+PR0412,UN2196,1943515.6845614035,5,5,5,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,1,1,1,1,-8.824442,115.163821,Maharaja Residence Homestay,"Jl. Bali Cliff No.123, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,4,A0011,2653.12
+PR0419,UN2219,408547.375,1,1,1,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,-8.6768119,115.566473,Poling Sea View,"Banjar Kutapang, Desa Batununggul, Nusapenida, Kabupaten Klungkung, Bali 80771 ",4,1,A0020,
+PR0424,UN2250,1043274.8556818181,3,5,3,6,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,1,1,-8.631898,115.13356,Kubu Mesari,"Kubu Mesari by Bukit Vista, Br. Kangkang, Jalan Pantai Pererenan Gang Bima, Pererenan, Kabupaten Badung, Bali",2,4,A0003,2553.42
+PR0426,UN2253,292010.4166666667,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,1,-8.6543858,115.1318362,Dicky Guesthouse,"Gang Bonton, Canggu, Kuta Utara, Kabupaten Badung, Bali",4,1,A0003,
+PR0427,UN2255,457341.8849206349,1,1,1,2,1,0,1,1,0,0,1,0,0,1,1,0,1,0,0,1,0,1,0,1,1,1,0,1,0,-8.67666,115.514889,Merta Beach Bungalow,"Jl. Ped - Buyuk, Banjar Bodong, Desa Ped, Kec Nusa Penida, Kabupaten Klungkung",4,3,A0020,26.7774
+PR0429,UN2259,339763.39385847794,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,1,-8.6543751,115.13182,Dicky Guesthouse 2,"Dicky Guesthouse 2 by Bukit Vista, Jalan Pantai Batu Bolong, Canggu, Kabupaten Badung, Bali",4,1,A0003,
+PR0433,UN2264,657230.1062395102,2,1,2,4,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,1,0,-8.8085215,115.1146464,Mudjimba Green Bungalows,,2,1,A0008,
+PR0437,UN2270,5409977.407407408,4,5,4,8,1,1,1,1,0,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1,1,,,Villa Olala,"Jl. Raya Nusa Dua Selatan Kawasan Sawangan Nusa Dua, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80363, Indonesia",2,5,A0012,
+PR0446,UN2294,653685.3658536585,1,1,1,2,1,1,0,1,0,1,1,1,0,1,1,0,1,0,0,1,0,0,1,0,1,1,0,1,1,-8.676092,115.5474495,Pi Karya Beach,"Jl. Ped - Buyuk, Ped, Nusapenida, Kabupaten Klungkung, Bali 80771",4,1,A0020,
+PR0447,UN2296,244711.553030303,1,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1,1,1,1,0,0,1,1,0,1,0,-8.675,115.5445613,Buyuk Pillas Bungalow,"Jl. Ped - Buyuk, Ped, Nusapenida, Kabupaten Klungkung, Bali 80771",4,2,A0020,
+PR0455,UN2314,817989.678030303,1,1,1,2,1,1,1,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0,1,1,0,1,0,,,La Bomie,"Pantai Suluban Uluwatu, Jl. Labuansait, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",4,4,A0002,
+PR0465,UN2336,351823.3333333333,1,1,1,2,1,1,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,1,0,0,1,0,1,0,-8.6495951,115.1349202,Komala Homestay,Jl. Batu Bolong No 51 E Canggu,4,1,A0003,
+PR0467,UN2357,289017.7375776397,1,1,1,2,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,1,1,1,0,1,0,0,1,0,-8.650003,115.133906,Double A Guest,jl tanah barak no.29 canggu batu bolong,4,1,A0003,1055.57
+PR0494,UN2407,239641.9195732202,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,1,1,-8.836065,115.11936,Dream Breeze Village,"Dream Breeze Village by Bukit Vista, Jalan Gunung Tengger, Pecatu, Kabupaten Badung, Bali",4,1,A0002,1098.55
+PR0000,UN0000,474113.96226415096,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PR0001,UN1669,1363969.0493333333,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Melasti Ungasan,,2,0,A0011,
+PR0002,UN0009,1424283.3333333333,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PinkCoco Bali,,5,0,A0013,
+PR0003,UN0007,1891500.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PinkCoco Gili Trawangan,,5,0,A0014,
+PR0004,UN0002,1304727.666666666,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PinkCoco Gili Air,,5,0,A0000,
+PR0005,UN0001,590316.8518518518,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Omah Cening,,1,1,A0001,
+PR0006,UN0014,431650.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Lulu,,1,0,A0003,
+PR0007,UN1652,393085.4166666666,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seno Guesthouse,,4,0,A0013,
+PR0008,UN1647,385991.0462196161,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sinar Sari Bingin,"Accommodation Name & Address:  SINAR SARI GUESTHOUSE Jl. Pantai Bingin, Pecatu, Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia  We’ve also sent you the GPS link for your guidance. Click the message button to find it.  Still confuse? Follow below ",4,0,A0008,
+PR0009,UN1636,552200.702560241,1,1,1,2,1,1,0,0,0,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,0,0,1,1,,,Shankara Guesthouse,"Welcome to SHANKARA GUESTHOUSE, !
+
+Click one of these links to find SHANKARA GUESTHOUSE easily:
+http://bit.ly/bvyoutube-shankara (short & fun video direction)
+http://bit.ly/bvmaps-shankara (GPS map)
+
+Need extra service? Submit your requests here:
+htt",4,0,A0008,
+PR0011,UN0015,658722.111111111,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Griya Langen,,5,1,A0001,
+PR0012,UN1635,747790.838709677,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sesapi Putih,,1,0,A0011,
+PR0013,UN0017,543751.8333333334,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Homestay Tembi,"Welcome!
+
+We are happy to host you here in Special Region of Yogyakarta, the cultural capital city of Indonesia, also with Borobudur temple as part of seven wonders of the world! 
+
+Here’s the address details and the direction on how to get here:
+
+- A",5,3,A0001,
+PR0015,UN0024,661250.0454545454,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wisma Eyang Sosro,"Welcome!
+
+We are happy to host you here in Special Region of Yogyakarta, the cultural capital city of Indonesia, also with Borobudur temple as part of seven wonders of the world! 
+
+Here’s the address details and the direction on how to get here:
+
+- A",5,5,A0001,
+PR0018,UN1600,1079569.6458333333,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lorong Homestay,"Welcome!
+
+We are happy to host you here in Special Region of Yogyakarta, the cultural capital city of Indonesia, also with Borobudur temple as part of seven wonders of the world! 
+
+Here’s the address details and the direction on how to get here:
+
+- A",4,0,A0001,
+PR0019,UN1599,699321.02,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Griya Tiyasan,"Here’s the address details and the direction on how to get here:
+
+- Accommodation Name:
+Griya Tiyasan
+
+- Address:
+Jalan Sri Kuncoro, Sinduharjo, Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581
+
+- Direction for your driver
+Go to Jalan Kali",1,0,A0001,
+PR0020,UN1624,1240234.3333333333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wabisabi,"Welcome!
+
+We are happy to host you here in Special Region of Yogyakarta, the cultural capital city of Indonesia, also with Borobudur temple as part of seven wonders of the world! 
+
+Here’s the address details and the direction on how to get here:
+
+- A",1,0,A0001,
+PR0021,UN1609,694702.6263924005,1,1,1,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,1,0,,,Sannyas Yoga House,"Jl. Labuansait, Uluwatu Pecatu, Kabupaten Badung, Bali 80364",4,2,A0002,
+PR0023,UN0031,145500.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Joglo Agung,,4,0,A0001,
+PR0024,UN0035,2001639.9601082944,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Shiva,"Welcome to VILLA SHIVA!
+
+Address of VILLA SHIVA:
+Jl. Pantai Bingin No.3, Pecatu, Kuta Sel., Kabupaten Badung, Bali 80361
+
+Click one of these links to find VILLA SHIVA easily:
+http://bit.ly/bvmaps-shiva (GPS map)
+
+http://bit.ly/bvyoutube-villashiva (f",2,0,A0008,
+PR0025,UN0034,1800000.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Miracle Villas,,2,0,A0012,
+PR0026,UN0033,907421.3366666666,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Coffee Network,,2,0,A0010,
+PR0028,UN0038,1543467.11,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D'Java Omah Sambilegi,,4,0,A0001,
+PR0029,UN1597,284392.37499999977,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bali Shanti,,4,0,A0003,
+PR0030,UN1594,1308505.333333333,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cabana Krui Lampung,,5,0,A0005,
+PR0031,UN0463,1189490.679102564,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Le Yanandra,"We are very much looking forward to welcoming you here in white-sandy Balangan Beach area! 
+Please take note on our below address details & directions on how to get here:
+
+Accommodation Name:
+LE YANANDRA
+
+- Address: 
+Jalan Pantai Balangan, South Kuta",5,0,A0009,
+PR0032,UN1586,824500.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Griya Bausasran 52,"Welcome !
+
+We are happy to host you here in Special Region of Yogyakarta, the cultural capital city of Indonesia, also with Borobudur temple as part of seven wonders of the world! 
+
+Here’s the address details and the direction on how to get here:
+
+- ",4,0,A0001,
+PR0034,UN1580,683613.1691313131,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pondok Joglo Odit,"Welcome to Canggu,
+
+I'd love to host and give you some insight of the area. Please take a note of our address below:
+
+
+Accommodation Name:
+PONDOK JOGLO ODIT
+Address: 
+Pondok Joglo Odit - Jl. Pantai Batu Bolong Canggu, 
+Kuta Utara, Kabupaten Badung, B",4,0,A0003,
+PR0035,UN1568,958914.2857142857,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bale Tudor,,2,0,A0004,
+PR0036,UN0039,760861.0714285715,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WK Gamat Garden VIlla,"Welcome to GAMAT GARDEN VILLA!
+
+Address of GAMAT GARDEN VILLA:
+Sakti, Nusapenida, Klungkung Regency, Bali 80771, Indonesia
+
+GPS map for GAMAT GARDEN VILLA:
+http://bit.ly/bvmaps-wkgg
+
+Send us your booking code on WhatsApp to keep in touch: 
+http://bit",4,0,A0020,
+PR0037,UN0050,712380.4020949289,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ayu Laba,"Thank you for your booking!
+Here's some details you might need to know for easy arrival:
+
+Villa Name:
+AYU LABA GUESTHOUSE
+
+Address: 
+Jl. Raya Batumulapan, Batununggul, Nusapenida, Kabupaten Klungkung, Bali 80771
+
+Google maps: 
+https://goo.gl/maps/MAj",4,0,A0020,
+PR0038,UN1556,1545538.25,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Summergrass,,1,0,A0001,
+PR0039,UN0044,670979.6333333333,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Batan Sabo,"Hi 
+Thank you for your booking!
+Here's some details you might need to know for easy arrival:
+
+Villa Name:
+BATAN SABO COTTAGE
+
+Address: 
+Sakti, Nusapenida, Klungkung Regency, Bali 80771
+
+Google maps: 
+https://goo.gl/maps/NhzWanqJmak
+
+Air Support Conta",4,0,A0020,
+PR0041,UN1562,347583.3333333333,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Posnya Seni Godod,"Welcome!
+
+We are happy to host you here in Special Region of Yogyakarta, the cultural capital city of Indonesia, also with Borobudur temple as part of seven wonders of the world! 
+
+Here’s the address details and the direction on how to get here:
+
+- A",4,0,A0001,
+PR0042,UN1555,1492451.1019444445,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Luna,"Welcome to VILLA LUNA UNGASAN!
+
+Address of VILLA LUNA UNGASAN:
+Jl. Kediri, Ungasan, Kuta Sel., Kabupaten Badung, Bali 80361
+
+GPS map of VILLA LUNA UNGASAN:
+http://bit.ly/bvmaps-vlunaungasan
+
+Send us your booking code on WhatsApp to keep in touch:  
+h",2,0,A0011,
+PR0043,UN1542,1679832.6183333334,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Little Cabin - The Landmark,,3,0,A0019,
+PR0046,UN1515,1348838.25,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Suci Sari,,2,0,A0004,
+PR0047,UN1511,194000.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vinnayaka Guesthouse,,4,0,A0004,
+PR0049,UN1488,772120.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Toya Villa Ubud,,4,0,A0004,
+PR0050,UN1466,1624819.2857142857,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Casa Mia,"Welcome!
+
+We are happy to host you here in Special Region of Yogyakarta, the cultural capital city of Indonesia, also with Borobudur temple as part of seven wonders of the world! 
+
+Here’s the address details and the direction on how to get here:
+
+- A",2,0,A0001,
+PR0052,UN1477,620966.9120631533,1,1,1,2,1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0,1,1,0,0,1,0,1,1,-8.6488877,115.1361637,Raka & Rai Guesthouse,"Jl. Tanah Barak, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",4,0,A0003,
+PR0054,UN1463,624437.5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Puri Casablanca,,3,0,A0005,
+PR0056,UN1448,373376.333333333,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Toras Guesthouse,"Jl. Pantai Berawa no. 27 Gang. Sahadewa, Tibubeneng, 80361",4,4,A0003,
+PR0057,UN1395,547132.8534276218,1,1,1,2,1,1,0,0,0,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,0,0,1,1,-8.809038,115.115846,Teges Asri,"54R8+98J, Pecatu, South Kuta, Badung Regency, Bali 80361",4,1,A0008,476.861
+PR0058,UN1425,407799.406060606,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tegal Panggung,,4,0,A0001,
+PR0059,UN1418,688299.5178571428,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,-7.813022,110.3628543,Griya Asih,"Jl. Langenarjan Lor No.11, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131",4,0,A0001,
+PR0060,UN1394,603589.1428571428,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Griya Siwi,,1,0,A0001,
+PR0061,UN1461,1690151.5151515151,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rumah Kami,,1,0,A0001,
+PR0063,UN1391,1942543.2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rumah Kemang 50,,2,0,A0005,
+PR0064,UN1416,1080337.5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jogja Dreams,,2,0,A0001,
+PR0066,UN1372,679348.071428571,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa The Cantri,,2,0,A0011,
+PR0068,UN1432,822560.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bali Omah,,1,0,A0001,
+PR0069,UN1404,254867.5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Roemah Canting,,4,0,A0001,
+PR0071,UN0016,1706149.462121212,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Watusaman Homestay,,4,0,A0001,
+PR0072,UN1354,1086553.207229499,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.7895155,115.1547097,Villa Rama,,2,0,A0010,
+PR0073,UN1350,206641.66666666666,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Adi Bali Homestay,,4,0,A0013,
+PR0074,UN1349,417991.46499999997,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Rizki,,2,0,A0003,
+PR0075,UN1343,3549206.8,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dago Village,,2,0,A0006,
+PR0076,UN1214,1453792.0309581528,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Hali,,2,0,A0011,
+PR0077,UN1257,2009775.0405982905,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Siaga Raya 77 Mediapura,,2,0,A0005,
+PR0078,UN1023,517186.2166666666,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Jarrdin Apartment,,3,0,A0006,
+PR0080,UN1240,417133.3333333333,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vila Lila Loka,,4,0,A0003,
+PR0081,UN1336,2026816.3582393127,1,1,1,3,1,1,0,1,1,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,0,0,1,1,,,Yoga Searcher,"Yoga Searcher Bali, Jalan Labuansait, Pecatu, Kabupaten Badung, Bali",5,0,A0002,
+PR0082,UN1277,1625851.8525830726,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Purnama,,2,0,A0008,
+PR0083,UN1231,2878547.509,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Karang,,2,0,A0003,
+PR0084,UN1306,373401.6666666667,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VOC,,4,0,A0003,
+PR0085,UN1383,206215.375,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D'Java Timuran,,4,0,A0001,
+PR0086,UN1332,614983.3333333333,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wiras Village,,4,0,A0003,
+PR0088,UN1293,1723138.2161959936,4,2,4,8,1,0,1,0,1,0,1,0,0,0,1,0,1,1,1,0,0,0,0,1,1,0,0,1,1,-8.8054876,115.1137161,Villa Tortoise,"Jl. Pantai Bingin, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,0,A0008,21.9135
+PR0089,UN1261,1294375.035516782,2,2,2,6,1,1,1,0,1,0,1,1,0,0,1,0,1,1,0,0,1,1,1,1,0,0,0,1,1,,,Villa Megalan,,2,0,A0009,
+PR0090,UN1280,1673128.3470122654,2,2,2,4,1,1,0,1,0,0,1,1,0,0,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,-8.8064365,115.1142419,Villa Shanti,"54V8+CHF, Pecatu, South Kuta, Badung Regency, Bali 80361",2,0,A0008,
+PR0091,UN1256,1354320.1411764706,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Matahari,,2,0,A0011,
+PR0092,UN1230,881205.4446212501,2,2,2,4,1,1,0,0,0,1,1,1,0,0,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,-8.800425,115.147582,Villa Kanha,"Jl. Anggrek, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,0,A0010,2033.49
+PR0093,UN1223,787050.8378045977,2,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.825629,115.153055,Villa Istana Willy,"Jl. Toya Ning II No.198, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,4,A0011,2398.34
+PR0094,UN1279,5290310.280138889,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Savasana,,2,0,A0003,
+PR0095,UN1290,703250.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Sunia,,2,0,A0003,
+PR0096,UN1298,817264.8452726711,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Toya,,2,0,A0009,
+PR0097,UN1264,3794779.90153557,1,,,,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1,1,0,1,1,0,1,1,,,Villa Merdu,,2,0,A0004,
+PR0098,UN1254,1476599.9533348996,3,3,3,6,1,1,0,0,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,-8.7846485,115.1552891,Villa Malindo,"Jl. Bukit Permai No.2, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,0,A0010,
+PR0099,UN1267,2087975.7749862848,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Mundaka,,2,0,A0003,
+PR0100,UN1321,616079.5769820587,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wira Homestay,,4,0,A0008,
+PR0101,UN1218,1494153.0179204515,2,1,2,4,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,1,,,Villa Idaman,,2,0,A0009,
+PR0102,UN1269,2505650.9690493825,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Nazeki,,2,0,A0011,
+PR0104,UN1228,1491182.2539313908,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8160943,115.1002842,Villa Kama,"Jl. Labuan Sait, Pecatu, South Kuta, Badung Regency, Bali 80361",2,4,A0013,477.08
+PR0105,UN1239,2189460.706454237,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Kura Kura,,2,0,A0008,
+PR0106,UN1275,2170869.2051821016,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Zen & Papaya,,2,0,A0008,
+PR0107,UN1252,1963832.1858355452,3,3,3,6,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,-8.6559338,115.1318793,Villa Loluan,"Villa Loluan by BukitVista, Jalan Nelayan, Canggu, Kabupaten Badung, Bali",2,0,A0003,
+PR0109,UN1033,270306.6666666667,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Kayuri Canggu,,4,0,A0003,
+PR0110,UN0066,302640.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Agung Homestay,,4,0,A0003,
+PR0111,UN1053,2198424.8935714285,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The White House,,2,0,A0010,
+PR0112,UN1169,487374.87636649446,1,1,1,3,1,1,0,1,0,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,1,0,1,1,-8.797821,115.149441,Villa Arindra,"642X+VQG, Jimbaran, South Kuta, Badung Regency, Bali 80361",4,0,A0010,1935.58
+PR0114,UN0111,338291.80704837485,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bagong Guesthouse,,4,0,A0003,
+PR0115,UN1132,313447.8401284403,1,1,1,2,1,1,0,0,0,1,1,1,0,0,1,0,1,1,1,1,1,1,0,0,0,1,0,1,1,-8.835272,115.119866,Uluwatu Village House,"Uluwatu Village House by Bukit Vista, Pecatu, Kabupaten Badung, Bali",4,1,A0002,1183.19
+PR0116,UN0125,706724.9941346153,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bali Mynah,,4,0,A0009,
+PR0122,UN0180,985625.4185714286,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Brad's Villa,,2,0,A0011,
+PR0123,UN1186,2600239.049912281,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Bija,,2,0,A0003,
+PR0124,UN0212,4414522.596666667,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Casa Putih,,2,0,A0003,
+PR0125,UN1203,2022430.0246720714,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Bulan & Cahaya,,2,0,A0008,
+PR0128,UN0234,1420080.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D'Java Gemilang,,1,0,A0001,
+PR0129,UN0255,659600.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Denpasar Residence,,3,0,A0005,
+PR0130,UN0268,2300990.011,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dreamview Villa,,2,0,A0008,
+PR0131,UN0275,391425.5741269841,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Full Moon Guesthouse,,4,0,A0003,
+PR0132,UN1255,1318959.42,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Mandalay,,2,0,A0004,
+PR0133,UN0304,1308976.2923874457,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gili Eco & Khumba Villas,,2,0,A0014,
+PR0137,UN0388,386746.25,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kubu Tropis,,4,0,A0004,
+PR0138,UN0417,1540580.3473646499,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,La Cabane,,5,0,A0009,
+PR0141,UN0571,184896.92307692306,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Made Roja Homestay,,4,0,A0009,
+PR0143,UN0637,121864.32,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rock-a-Villa,,2,0,A0015,
+PR0144,UN0651,853111.7205555555,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ndalem Ngabean,,4,0,A0001,
+PR0145,UN0673,375390.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ocho Bali Villa,,4,0,A0011,
+PR0146,UN0692,445587.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Peacock Ubud Inn,,4,0,A0004,
+PR0147,UN0727,3399626.473,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pramestha Resort Town - Alinda,,2,0,A0006,
+PR0148,UN0759,241774.09935897432,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Puri Minggiran,,4,0,A0001,
+PR0149,UN0800,806617.8712121212,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Riverside Cottages,,4,0,A0001,
+PR0150,UN0817,131920.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rumah Lavia,,2,0,A0001,
+PR0151,UN0829,831775.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sahid Sudirman Residence - 27B,,3,0,A0005,
+PR0155,UN0915,2977770.0625,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Siaga Raya 3 Villas,,2,0,A0005,
+PR0157,UN0939,336498.29765873007,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Surfloge Guesthouse,,4,0,A0003,
+PR0159,UN0986,1116427.2191036493,1,1,1,2,1,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,1,1,1,1,0,0,1,1,,,The Alchemist,"54WJ+GV9, Jimbaran, South Kuta, Badung Regency, Bali 80361",5,0,A0009,
+PR0161,UN1043,573668.1488249846,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Paving,,4,0,A0003,
+PR0163,UN1082,776000.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tirto Raharjo,,4,0,A0001,
+PR0165,UN1117,321844.962205614,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uluwatu Jungle Bugalow,,4,0,A0002,
+PR0166,UN0123,1739210.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bali Bohemia,,5,0,A0004,
+PR0168,UN0140,623963.3160278165,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8226011,115.0858599,Batu Jaran Hill ,"Batu Jaran Hill - Uluwatu Surf Bungalows, Jalan Pantai Suluban, Pecatu, Kabupaten Badung, Bali",4,0,A0002,
+PR0169,UN1166,1689304.5135504927,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Anak,,2,0,A0011,
+PR0171,UN1177,1134238.5780765554,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Bagus,,2,0,A0009,
+PR0173,UN1183,2308216.63599204,3,3,3,6,1,1,0,1,0,0,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,1,,,Villa Bening,"No., Jl. Pantai Bingin No.9, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,0,A0008,
+PR0174,UN0210,816982.5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Casa Grande Residence,,3,0,A0005,
+PR0175,UN1202,2634157.1611607145,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Bukit Surf,,2,0,A0013,
+PR0177,UN1210,3235991.389939951,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Entre Amis,,2,0,A0010,
+PR0178,UN0233,753892.8333333331,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D'Java Babarsari,,1,0,A0001,
+PR0179,UN1217,752298.5315333334,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Hari Indah,,2,0,A0008,
+PR0182,UN1232,1958361.828125,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Khaleesi,,2,0,A0015,
+PR0185,UN0319,4846712.185,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gravity Villa,,2,0,A0013,
+PR0186,UN0346,379646.395,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jubilee GuestHouse,,4,0,A0003,
+PR0187,UN1283,5918865.600318452,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Singa,,2,0,A0009,
+PR0189,UN0407,488047.3933362912,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kutuh Manak,,4,0,A0013,
+PR0191,UN0492,404095.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Like at Home,,4,0,A0009,
+PR0193,UN0606,314780.2812962111,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Moyo & Son Surf Stay,,4,0,A0008,
+PR0198,UN0710,425839.56429324974,1,1,1,2,1,1,0,0,1,0,1,1,0,0,1,0,1,1,1,1,0,1,1,1,0,0,0,1,1,-8.6552572,115.1296974,Pondok Lulik,"Pondok Lulik Homestay, Jalan Pantai Batu Bolong, Canggu, Kabupaten Badung, Bali",4,4,A0003,
+PR0199,UN0754,328117.8373015873,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Puri Langenarjan,,4,0,A0001,
+PR0200,UN0788,602484.8400036737,1,1,1,3,1,1,0,1,1,1,1,1,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0,1,1,-8.6536431,115.1323949,Rama Village,"Rama Village by BukitVista, Jalan Nelayan, Canggu, Kabupaten Badung, Bali",4,0,A0003,
+PR0201,UN0816,231805.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rumah Eyang,,4,0,A0001,
+PR0202,UN0828,526612.4716666667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sahid Residence,,4,0,A0005,
+PR0203,UN0890,536889.87,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Santosha Ubud,,4,0,A0004,
+PR0205,UN0930,880367.6160119048,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sleeping Buddha,,2,0,A0004,
+PR0207,UN0967,646026.1257561728,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.5020637,115.2609213,Taman Bintang,"Taman Bintang Villa Ubud, Jalan Kajeng, Ubud, Kabupaten Gianyar, Bali",4,0,A0004,
+PR0208,UN0977,654992.75,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tembi Rumah Budaya,,4,0,A0001,
+PR0209,UN1019,913573.775417575,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Hideaway,,4,0,A0003,
+PR0210,UN0064,884590.3287179486,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,808 Residence,,5,0,A0003,
+PR0211,UN1042,243941.77433333333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Pakis Hostel,,4,0,A0004,
+PR0212,UN0076,958658.1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Amelle,,4,0,A0003,
+PR0213,UN1058,410248.8533741148,1,1,1,2,1,1,0,0,1,1,1,1,0,0,1,0,1,0,1,1,1,1,1,1,0,1,0,1,1,,,Tirtha Canggu Suites,"Gg. Jalak Indah, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",4,0,A0003,
+PR0214,UN0103,309203.1224489794,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asri Guest House,,4,2,A0003,
+PR0215,UN1095,1230629.5830004949,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uluwatu Cottages,,5,0,A0002,
+PR0216,UN0122,670198.04,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Balangan Sleep Well,,2,0,A0009,
+PR0217,UN1143,436396.86580813833,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa 9 Nelayan,,4,0,A0003,
+PR0219,UN1162,1012814.8860278267,1,1,1,2,1,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,1,1,1,1,1,0,1,1,-8.6676843,115.1513442,Villa AKL,"Akl Villa Umalas, Jalan Umalas Klecung, Kerobokan Kelod, Kabupaten Badung, Bali",2,0,A0015,
+PR0220,UN0152,594584.1686994871,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Jepun Bingin,"Jalan Pantai Bingin, Pecatu, Kuta Selatan, Pecatu, Badung, Kabupaten Badung, Bali 80361",4,0,A0008,
+PR0221,UN1176,2844142.9883403867,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Ayunan,,2,0,A0008,
+PR0222,UN0167,690349.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blue Garden,,4,0,A0001,
+PR0223,UN1182,3304747.564222222,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Be Home,,2,0,A0011,
+PR0227,UN1209,133364.13333333333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Driftwood,,2,0,A0003,
+PR0230,UN0261,321887.82051282044,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dhuna Homestay,,4,0,A0003,
+PR0231,UN0272,1891500.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Emerald Villas,,2,0,A0003,
+PR0232,UN0287,338524.5143809524,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gangga Guesthouse,,4,0,A0003,
+PR0233,UN0311,679000.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gondang Legi Villas,,5,0,A0001,
+PR0236,UN0390,469859.848696845,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kusuma Guest House,,4,0,A0003,
+PR0237,UN1301,2860960.095,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Tykhe,,2,0,A0015,
+PR0238,UN0444,1606411.7887643524,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,La Joya Biubiu,"Biu Biu Resort, Jl. Pantai Balangan, Jimbaran, South Kuta, Badung Regency, Bali 80361",5,0,A0009,
+PR0239,UN0486,324474.7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lemon Guesthouse,,4,0,A0003,
+PR0240,UN0582,1208887.7754037334,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Maha Ungasan,,5,0,A0011,
+PR0243,UN0683,813375.3921022067,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Omah Lila,,2,0,A0001,
+PR0245,UN0731,390844.27050600474,1,1,1,2,1,1,0,0,1,1,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,-8.822391,115.0871096,Puri Kelapa,"Puri Kelapa Guest House by BukitVista, Pecatu, Kabupaten Badung, Bali",4,0,A0002,
+PR0245,UN0731,390844.27050600474,1,1,1,2,1,1,0,0,0,1,1,1,0,0,1,0,1,0,1,1,1,1,1,1,0,1,0,1,1,-8.822391,115.0871096,Puri Kelapa,"Puri Kelapa Guest House by BukitVista, Pecatu, Kabupaten Badung, Bali",4,0,A0002,
+PR0247,UN0814,2269800.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Royal Majestic Villa,,2,0,A0010,
+PR0248,UN0827,4134563.6751937983,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rumah Teteh Plemburan,,1,0,A0001,
+PR0249,UN0880,341726.96130952373,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sanata Yoga Guesthouse,,4,0,A0003,
+PR0250,UN0911,1088155.6666666665,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Secret Garden,,2,0,A0008,
+PR0252,UN0937,725145.1988095237,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sunset Condotel Kuta,,4,0,A0016,
+PR0253,UN0951,542957.5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taman Amertha,,4,0,A0004,
+PR0254,UN1000,550802.5124717437,1,1,1,2,1,1,0,0,1,0,1,1,0,0,1,0,1,0,1,0,1,1,1,0,1,0,0,1,1,-8.821746,115.089633,The Gong,"The Gong Accommodations, Uluwatu, Jalan Pantai Suluban, Pecatu, Kabupaten Badung, Bali",4,0,A0002,402.195
+PR0255,UN0063,785632.0394269293,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Redsalt,,5,0,A0003,
+PR0256,UN1035,2425000.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Khama Villas,,2,0,A0001,
+PR0257,UN0069,1078544.29,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Ambalama,,2,0,A0018,
+PR0258,UN1054,1294298.7142857143,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Three Monkeys,,5,0,A0002,
+PR0259,UN0100,198850.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Armaya Homestay,,4,0,A0002,
+PR0260,UN1093,1477329.4527777778,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ubud Indah,,2,0,A0004,
+PR0263,UN0136,407400.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bangka Suites,,4,0,A0005,
+PR0264,UN1157,1823234.491758126,2,2,2,5,1,1,0,0,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,,,Villa Akilea,"Jl. Merpati No.4, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,0,A0011,
+PR0266,UN1174,1818326.1463623303,3,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8076222,115.1124957,Villa Asmara,"No., Jl. Pantai Bingin No.9, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,0,A0008,
+PR0267,UN0166,8677478.233215308,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Biubiu Kumala S01,,2,0,A0009,
+PR0268,UN1179,896843.5715148288,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Bambu,,2,0,A0014,
+PR0269,UN0182,525463.0199274449,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Buana Homestay,,4,0,A0004,
+PR0270,UN1195,2583050.480123537,3,,,,1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,,,Villa Bingin Luna,,2,0,A0008,
+PR0272,UN1206,3977764.6067754244,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Cerita Indah,,2,0,A0008,
+PR0273,UN0231,872935.8,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D'Java Lempuyangan,,1,0,A0001,
+PR0275,UN1221,2162873.681190158,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Indigo,,2,0,A0008,
+PR0277,UN0269,320480.4944444444,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Elements Social House,,4,0,A0003,
+PR0278,UN0286,679000.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gandaria Height Apartment,,4,0,A0005,
+PR0285,UN1300,1524025.1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Tropicana,,2,0,A0003,
+PR0287,UN1305,1810847.821,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vivo Villas,,2,0,A0011,
+PR0290,UN0597,246137.5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sartika Apartment,,4,0,A0005,
+PR0292,UN0638,1333168.97,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,My Villa,,2,0,A0003,
+PR0295,UN0703,533500.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pendopo Andari,,4,0,A0001,
+PR0296,UN0730,2776589.14,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pramestha Resort Town,,2,0,A0006,
+PR0297,UN0766,537589.2780118029,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Puri Pandawa,,4,0,A0011,
+PR0298,UN0804,916650.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Roemah Boedi,,1,0,A0001,
+PR0299,UN0820,1550731.2291666667,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rumah Sarengat,,4,0,A0001,
+PR0301,UN0899,1086531.3666666667,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sawah Joglo,,5,0,A0001,
+PR0304,UN0941,442034.0229797979,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taman Asih,,4,0,A0008,
+PR0305,UN0976,2013976.711111111,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tamu Ibu,,1,0,A0001,
+PR0306,UN0151,962452.0256666666,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bingin Garden,,1,,A0000,
+PR0309,UN1676,464216.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Catar Cottage,,4,3,A0020,
+PR0310,UN1681,616855.3333333334,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Favorit Bungalows,,4,1,A0020,
+PR0311,UN1690,354341.5433814681,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.6755684,115.5670294,The Box House,"Gang The Box No, Batununggul, Nusapenida, Klungkung Regency, Bali 80771",4,1,A0020,
+PR0312,UN1735,509487.5681980613,1,1,1,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,1,0,1,0,,,Sari Garden Cottage,"Ped, Nusapenida, Kabupaten Klungkung, Bali 80771",4,3,A0020,
+PR0313,UN1224,412127.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa Jonson,,2,2,A0003,
+PR0315,UN0197,1248656.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Canggu Beach Apartment,,4,4,A0003,
+PR0317,UN1733,727500.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Joglo Mandapa,,5,3,A0001,
+PR0318,UN1743,1003768.829955407,1,1,1,2,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,1,1,1,1,1,1,0,1,0,,,The Angkal,"Suana, Nusapenida, Kabupaten Klungkung, Bali 80771",4,4,A0020,
+PR0325,UN1757,646666.666666666,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Griya Cemara,,4,3,A0001,
+PR0329,UN1768,2166754.4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Happy Ayu Homestay,,1,1,A0001,
+PR0331,UN1781,1250896.1088435373,3,3,3,6,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,1,-8.6310897,115.1309424,Villa Vosa,"Vosa Villa by Bukit Vista, Jalan Raya Tanah Lot, Pererenan, Kabupaten Badung, Bali",2,4,A0003,
+PR0332,UN1782,388000.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pondok DD,,4,4,A0003,
+PR0339,UN1822,362569.0096371882,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,1,1,-8.6559436,115.1397607,Pondok Kita,"Pondok Kita Canggu, Gang Strawberry, Tibubeneng, Kabupaten Badung, Bali",4,1,A0003,
+PR0341,UN1833,591700.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Joglo Rejodani,,2,3,A0001,
+PR0342,UN1837,523800.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GriyaKoe,,4,4,A0001,
+PR0343,UN1852,823878.0952380951,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-7.8069722,110.4100613,Ndalem Tilem,,1,1,A0001,
+PR0346,UN1873,252892.85714285713,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Pudi Homestay,,4,1,A0003,
+PR0348,UN1881,1164000.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,House of Madame Lily,,1,1,A0001,
+PR0349,UN1882,473974.115530303,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,You & We Guesthouse,,4,3,A0020,
+PR0351,UN1888,821840.3225806452,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tunjung Kuning,,4,4,A0020,
+PR0354,UN1897,1685436.509517544,5,5,5,0,1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,-8.803833,115.1450882,Villa Bahagia,,2,4,A0010,2201.29
+PR0355,UN1900,882564.5265700483,3,2,3,8,1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,1,1,1,0,1,1,,,Roemah Noni,"Jl Pengok Kidul No.18, Baciro, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55225",4,4,A0046,
+PR0356,UN1902,1082242.857142857,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sunrise Homestay,,1,1,A0001,
+PR0357,UN1903,1940000.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Puri Bendesa Villa,,2,4,A0011,
+PR0359,UN1912,194000.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Kawi Asih,,4,1,A0020,
+PR0360,UN1925,2425000.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Maha Giri Villa,,2,4,A0011,
+PR0362,UN1931,300700.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Koi Guesthouse,,4,1,A0003,
+PR0364,UN1950,843361.3268398269,1,1,1,2,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,1,1,1,1,0,1,0,1,1,,,Tegar Penida Paradise,"Sakti, Nusapenida, Klungkung Regency, Bali 80771",4,3,A0020,
+PR0365,UN1969,329024.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Welcome Inn,,4,1,A0020,
+PR0367,UN1971,386441.0714285714,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,1,1,0,1,1,0,1,1,-8.6469353,115.1509883,The Uma Guesthouse,"Jl. Pura Beten Kepuh Gg. Bunteh selatan No.1 A, Tibubeneng, Kec. Kuta Utara, Mangupura, Bali 80361",4,4,A0003,
+PR0368,UN1992,1495201.111111111,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Rumah Teteh Kledokan,,1,4,A0001,
+PR0369,UN1996,311208.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Nayottama Homestay,,4,1,A0001,
+PR0372,UN2004,887550.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Omah Candi,,1,1,A0001,
+PR0373,UN2043,1344774.5092880952,2,2,2,4,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1,1,1,1,0,0,1,1,,,Villa Olel,"Villa Olel Ubud Bali, Jalan Sri Wedari, Ubud, Kabupaten Gianyar, Bali",2,4,A0004,
+PR0374,UN2007,1455000.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Mansion 27,,1,4,A0011,
+PR0377,UN2016,331416.6666666667,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Chez Laelik Guesthouse,,4,3,A0001,
+PR0379,UN2018,1289291.6666666667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Omah Glagah,,4,4,A0001,
+PR0381,UN2041,1117520.8333333333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Wabisabi Hut,,4,4,A0001,
+PR0384,UN1456,611198.5833333333,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Omah Ucok,,2,3,A0001,
+PR0387,UN2081,1025778.8771929825,2,2,2,8,1,1,0,1,0,0,1,0,0,0,1,0,1,1,0,0,1,1,0,0,1,1,0,1,1,-7.770902,110.4285759,Rumah Budi Susanto,"Location:
+JL. Ringroad Utara, No. 3 A, Maguwoharjo, Yogyakarta, Sanggrahan, Maguwoharjo, Depok Sub-District, Sleman Regency, Special Region of Yogyakarta",4,4,A0047,
+PR0388,UN0003,1030127.5323129252,2,2,2,4,1,1,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,1,1,1,1,1,0,1,1,-8.6980629,115.1699098,Villa Aura,"Villa Aura by Bukit Vista, Rumah, Seminyak, Kabupaten Badung, Bali",1,4,A0015,
+PR0389,UN0778,534924.9793837421,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8016123,115.1467495,Puri Sabina Villa,"Jl. Puri Sabina No.1, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,4,A0010,
+PR0391,UN2098,436159.54901960783,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Bakung Cozy Cottage,,4,4,A0020,
+PR0392,UN2103,420883.0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Myart in Bungalow,,4,4,A0020,
+PR0394,UN2112,805100.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,InnEP Homestay,,4,4,A0001,
+PR0395,UN2113,476797.5103448276,1,1,1,3,1,0,0,0,0,1,1,0,1,1,1,0,1,0,1,1,0,0,1,0,1,1,0,1,1,-7.7584523,110.3804561,Uttara by Stay Habitat,"Jl. Kaliurang No.72 Km.5, Manggung, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",3,4,A0001,
+PR0396,UN2114,368600.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,The Ulu's Klumpu,,4,1,A0002,
+PR0397,UN2123,647738.5869565217,1,1,1,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,1,-8.4584881,115.280513,Raja Surga Ubud,"Raja Surga Villa by Bukit Vista, Kenderan, Kabupaten Gianyar, Bali",2,4,A0004,
+PR0398,UN2124,422880.1410934744,1,1,1,2,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,1,1,0,0,1,1,-8.688812,115.488442,Warisan Homestay Nusa Penida,"Sakti, Nusapenida, Klungkung Regency, Bali 80771",4,1,A0020,596.384
+PR0400,UN2134,436667.05555555556,1,1,1,2,1,1,1,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,1,1,1,0,1,0,-8.6965183,115.5792547,Song Cang Bungalow,"Jl. Raya Batumulapan, Batununggul, Nusapenida, Kabupaten Klungkung, Bali 80771",4,3,A0020,
+PR0401,UN2139,232800.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Rice Field Loft,,4,4,A0004,
+PR0402,UN2140,264835.57482993195,1,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1,1,1,1,0,1,0,1,0,1,1,-8.6752409,115.5664756,Sambu Bungalow,"Batununggul, Nusapenida, Kabupaten Klungkung, Bali 80771",4,1,A0020,
+PR0403,UN2146,774406.9090909091,1,1,1,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,1,1,-8.6756032,115.5652538,The Box Paradise,"Gang The Box No, Batununggul, Nusapenida, Klungkung Regency, Bali 80771",4,3,A0020,
+PR0406,UN2155,1311670.0,3,2,3,0,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,1,0,,,Rumpang QQ''s Green,"79FP+QFR, Lojajar, Sinduharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581",4,4,A0001,
+PR0409,UN2163,4340984.137931035,3,3,3,6,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1,1,1,1,1,0,1,1,-8.5740741,115.2136803,Sunrise House,"Green Village Bali, Jalan Tanah Ayu, Sibang Gede, Kabupaten Badung, Bali",1,3,A0004,
+PR0410,UN2164,819209.4253731343,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Papa Sun Villa,,4,3,A0020,
+PR0411,UN2171,1089177.7272727273,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Joglo Organik,,4,4,A0004,
+PR0414,UN2205,229037.68,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Griya Guest House,,4,1,A0003,
+PR0417,UN2213,1281337.68697479,3,3,3,6,,,,,,,,,,,,,,,,,,,,,,,,,,-8.807392,115.157375,NH Residence,"Jimbaran, Jl. Indraprasta No.3, Ungasan, South Kuta, Badung Regency, Bali 80361",2,4,A0011,2755.41
+PR0418,UN2218,215214.22614035086,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Green Valley Bungalow,,4,1,A0020,
+PR0420,UN2224,6007090.416666666,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Ananda House,,1,3,A0004,
+PR0421,UN2225,194000.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Edo Homestay,,4,1,A0003,
+PR0422,UN2233,270280.8,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bagas & Bayu Guesthouse,,4,2,A0004,
+PR0423,UN2236,227340.9090909091,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,1,1,-8.6385989,115.1438355,Pondok Chesia,"Pondok Chesia by Bukit Vista, Jalan Pantai Batu Bolong, Canggu, Kabupaten Badung, Bali",4,1,A0003,
+PR0425,UN2251,721437.625,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.8090417,115.1135733,Pavilion Guest House,,4,1,A0001,
+PR0432,UN2262,1554207.3695652173,2,3,2,4,1,1,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,1,1,0,1,0,1,1,-8.837896,115.151689,Villa Kyl 2BR,"Jl. Anggrek, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,4,A0011,1033.16
+PR0434,UN2289,616804.2911302836,3,,,,1,1,0,1,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,-8.7910675,115.151234,Villa Chanteak,,5,0,A0010,
+PR0435,UN2266,1947324.7291486291,4,5,4,9,1,1,0,0,0,1,1,1,0,1,1,0,1,1,1,0,0,1,1,0,1,1,1,1,1,-8.810648,115.156482,Villa Rumah Pertama,"Jl. Utama, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,4,A0011,3125.52
+PR0438,UN2275,1015816.2591036414,3,4,3,6,1,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,1,1,-8.8026328,115.1472752,Villa Bodas,"Jl. Blongkeker No.1, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",2,4,A0010,
+PR0442,UN2287,308726.4966391156,1,1,1,2,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1,-8.652609,115.13751,Pondok Bagus Guesthouse,"Pondok bagus canggu, Canggu, Kabupaten Badung, Bali",4,1,A0003,1093.22
+PR0450,UN2305,2098163.1756776557,3,2,3,6,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,-8.6695544,115.1504569,Villa SK9,"Jl Umalas I, Gg. 24, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",2,5,A0015,
+PR0453,UN2320,649478.2608695652,1,1,1,2,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,1,1,0,1,0,-8.50706,115.276521,Pondok Nini Ubud,"Jalan gunung sari, banjar ambengan, desa peliatan, ubud",2,3,A0004,11926.3
+PR0460,UN2330,417063.6451612903,1,1,1,2,0,1,0,1,0,0,1,0,0,1,0,0,1,0,0,1,1,1,0,0,1,1,0,1,1,-8.4585533,115.2799388,Villa Damuh,Br Dukuh desa kenderan tegalalang gianyar Bali ,2,5,A0004,
+PR0464,UN2334,353314.42164902994,1,1,1,2,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,1,0,0,1,1,-8.6488393,115.1329232,Pondok Juli,"Jl Tanah Barak, No 17 B Canggu",4,3,A0003,
+PR0474,UN2380,1164000.0,2,3,2,4,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,0,1,1,-8.655828,115.1417823,Raka Rai Villa,Jl Raya Semat Gg Strawberry Berawa Canggu,2,4,A0003,
+PR0516,UN2523,574341.0800261754,1,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nusa Majesty,"  Jl. Nusa Indah No.53, Kutampi Kaler, Nusapenida, Kabupaten Klungkung, Bali 80771
+
+Jl. Nusa Indah No.53, Kutampi Kaler, Nusapenida, Kabupaten Klungkung, Bali 80771",4,1,A0020,
+PR0640,UN1196,994250.0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-7.9857913,110.5163786,Pondok Ijo ," Gg. Kantil, Mantrijeron, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55143",4,1,A0001,
+PR0683,UN2158,655186.1527777776,4,,,,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,1,1,0,1,1,,,UMA TULU VILLA ,"Jalan Kintamanai, Banjar Petulu Gunung,, Desa Petulu, Kecamatan Ubud, Ubud, Kec. Gianyar, Kabupaten Gianyar, Bali 80571",2,3,A0004,
