@@ -1,0 +1,10 @@
+property_type,type_desc,type_description_id
+1,House,
+2,Villa,
+3,Apartment,
+4,Guesthouse,
+5,Resort,
+6,Hotel,
+7,Homestay,
+8,Luxury Homestay,
+9,Hostel,
