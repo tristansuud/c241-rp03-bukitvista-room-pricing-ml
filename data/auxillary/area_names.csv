@@ -1,25 +1,55 @@
-area_names
-Canggu
-Nusa Penida
-Balangan
-Uluwatu
-Bingin
-Padang Padang
-Ungasan
-Yogyakarta
-Nusa Dua
-Ngupasan
-Banguntapan
-Seminyak
-Tamantirto
-Sinduharjo
-Jimbaran
-Undefined
-Ubud
-Gili Trawangan
-Bandung
-Jakarta
-Kuta
-Penang
-Baciro
-Maguwoharjo
+area_id,area_name
+A0046,Baciro
+A0009,Balangan
+A0006,Bandung
+A0044,Banguntapan
+A0051,Bedugul
+A0030,Berawa
+A0008,Bingin
+A0003,Canggu
+A0050,Caturtunggal
+A0018,Cemagi
+A0026,Dalung
+A0021,Gili Air
+A0014,Gili Trawangan
+A0033,Greece
+A0040,Gunungketur
+A0005,Jakarta
+A0010,Jimbaran
+A0028,Karangasem
+A0052,Kerobokan
+A0053,Ketewel
+A0027,Kintamani
+A0016,Kuta
+A0035,Kutuh
+A0047,Maguwoharjo
+A0029,Mengwi
+A0043,Ngupasan
+A0034,Ngurah Rai Aiport
+A0036,Nusa Ceningan
+A0012,Nusa Dua
+A0020,Nusa Penida
+A0013,Padang Padang
+A0041,Panembahan
+A0037,Pecatu
+A0019,Penang
+A0031,Pererenan
+A0007,Phuket
+A0022,Sanur
+A0042,Sariharjo
+A0015,Seminyak
+A0049,Sinduadi
+A0038,Sinduharjo
+A0017,Singapore
+A0025,Singaraja
+A0024,Tabanan
+A0039,Tamantirto
+A0023,test
+A0045,Timbulharjo
+A0054,Tumbah Bayuh
+A0004,Ubud
+A0002,Uluwatu
+A0032,Umalas
+A0000,Undefined
+A0011,Ungasan
+A0001,Yogyakarta
