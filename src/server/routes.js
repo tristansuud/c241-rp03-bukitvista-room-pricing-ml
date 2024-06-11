@@ -1,4 +1,4 @@
-const {postPredictHandler, predictHistories} = require('../server/handler');
+const {postPredictHandler} = require('../server/handler');
 const {GetAllProperties, GetPropertyById} = require('../controllers/PropertyController');
 const {GetDetailRoom} = require('../controllers/RoomController');
      
@@ -16,12 +16,6 @@ const routes = [
     }
   },
   {
-    path: '/predict/histories',
-    method: 'GET',
-    handler: predictHistories
-    
-  },
-  {
     path: '/properties/{id}',
     method: 'GET',
     handler: GetPropertyById
@@ -35,8 +29,7 @@ const routes = [
     path: '/properties/{property_id}/rooms/{room_id}',
     method: 'GET',
     handler: GetDetailRoom
-  }
-  
+  } 
 ]
  
 module.exports = routes;

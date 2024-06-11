@@ -2,23 +2,24 @@ const { DataTypes, Model } = require('sequelize'); // Assuming Sequelize is inst
 
 const sequelize = require("../../config/dbConnect"); // Assuming the connection is defined here
 
-const UnitAttributes = {
-  unit_name: {
+const AreaAttributes = {
+  id: {
     type: DataTypes.STRING,
+    primaryKey: true,
   },
-  id_room: {
-    type: DataTypes.INTEGER,
+  area_name: {
+    type: DataTypes.STRING,
   },
   createdAt: DataTypes.DATE,
   updatedAt: DataTypes.DATE,
 };
 
-const Unit = class Unit extends Model { };
+const Area = class Area extends Model { };
 
-Unit.init(UnitAttributes, {
+Area.init(AreaAttributes, {
   sequelize,
   timestamps: true,
   underscored: false,
 });
 
-module.exports = Unit;
+module.exports = Area;

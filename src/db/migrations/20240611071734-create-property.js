@@ -5,12 +5,20 @@ module.exports = {
     await queryInterface.createTable('Properties', {
       id: {
         allowNull: false,
-        autoIncrement: true,
         primaryKey: true,
-        type: Sequelize.INTEGER
+        type: Sequelize.STRING
       },
       property_name: {
         type: Sequelize.STRING
+      },
+      id_area: {
+        type: Sequelize.STRING,
+        references: {
+          model: 'Areas',
+          key: 'id'
+        },
+        onUpdate: 'CASCADE',
+        onDelete: 'CASCADE'
       },
       createdAt: {
         allowNull: false,

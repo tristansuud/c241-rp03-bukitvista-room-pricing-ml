@@ -13,13 +13,19 @@ module.exports = {
         type: Sequelize.STRING
       },
       id_property: {
-        type: Sequelize.INTEGER,
+        type: Sequelize.STRING,
         references: {
           model: 'Properties',
           key: 'id'
         },
         onUpdate: 'CASCADE',
         onDelete: 'CASCADE'
+      },
+      bedroom: {
+        type: Sequelize.INTEGER
+      },
+      capacity: {
+        type: Sequelize.INTEGER
       },
       createdAt: {
         allowNull: false,

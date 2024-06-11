@@ -5,10 +5,24 @@ const sequelize = require("../../config/dbConnect"); // Assuming the connection 
 const Property = require("./property");
 
 const RoomAttributes = {
+  id: {
+    type: DataTypes.STRING,
+    primaryKey: true,
+  },
   room_name: {
     type: DataTypes.STRING,
   },
   id_property: {
+    type: DataTypes.STRING,
+    references: {
+      model: 'Properties',
+      key: 'id',
+    },
+  },
+  capacity: {
+    type: DataTypes.INTEGER,
+  },
+  bedroom: {
     type: DataTypes.INTEGER,
   },
   createdAt: DataTypes.DATE,
