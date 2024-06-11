@@ -1,34 +1,24 @@
-'use strict';
-const {
-  Model
-} = require('sequelize');
-module.exports = (sequelize, DataTypes) => {
-  class Unit extends Model {
-    /**
-     * Helper method for defining associations.
-     * This method is not a part of Sequelize lifecycle.
-     * The `models/index` file will call this method automatically.
-     */
-    static associate(models) {
-      // define association here
-    }
-  }
-  Unit.init({
-    unit_name: {
-      type: DataTypes.STRING,
-    },
-    id_room: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-    },
-  }, {
-    sequelize,
-    modelName: 'Unit',
-  });
+const { DataTypes, Model } = require('sequelize'); // Assuming Sequelize is installed
 
-  Unit.belongsTo(sequelize.models.Room, {
-    foreignKey: 'id_room',
-  });
+const sequelize = require("../../config/dbConnect"); // Assuming the connection is defined here
 
-  return Unit;
+const UnitAttributes = {
+  unit_name: {
+    type: DataTypes.STRING,
+  },
+  id_room: {
+    type: DataTypes.INTEGER,
+  },
+  createdAt: DataTypes.DATE,
+  updatedAt: DataTypes.DATE,
 };
+
+const Unit = class Unit extends Model { };
+
+Unit.init(UnitAttributes, {
+  sequelize,
+  timestamps: true,
+  underscored: false,
+});
+
+module.exports = Unit;

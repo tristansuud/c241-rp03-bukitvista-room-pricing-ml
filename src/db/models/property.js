@@ -1,6 +1,7 @@
 const { DataTypes, Model } = require('sequelize'); // Assuming Sequelize is installed
 
 const sequelize = require("../../config/dbConnect"); // Assuming the connection is defined here
+const Room = require("./room");
 
 const PropertyAttributes = {
   property_name: {

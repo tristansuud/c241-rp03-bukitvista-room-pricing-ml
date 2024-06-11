@@ -1,6 +1,6 @@
 const {postPredictHandler, predictHistories} = require('../server/handler');
-const {GetAllProperties} = require('../controllers/PropertyController');
-const {GetPropertyById} = require('../controllers/PropertyController');
+const {GetAllProperties, GetPropertyById} = require('../controllers/PropertyController');
+const {GetDetailRoom} = require('../controllers/RoomController');
      
 const routes = [
   {
@@ -31,6 +31,11 @@ const routes = [
     method: 'GET',
     handler: GetAllProperties
   },
+  {
+    path: '/properties/{property_id}/rooms/{room_id}',
+    method: 'GET',
+    handler: GetDetailRoom
+  }
   
 ]
  

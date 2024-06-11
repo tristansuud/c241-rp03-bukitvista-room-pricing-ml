@@ -1,8 +1,8 @@
 const Property = require("../db/models/property");
+const Room = require("../db/models/room");
 
 const GetAllProperties = async (request, h) => {
   const properties = await Property.findAll();
-  console.log(properties);
 
   const response = h.response({
     status: "success",
@@ -13,11 +13,21 @@ const GetAllProperties = async (request, h) => {
 };
 
 const GetPropertyById = async (request, h) => {
+  
   const properties = await Property.findOne({
     where: {
       id: request.params.id,
     },
   });
+
+  const room = await Room.findAll({
+    where: {
+      id_property: request.params.id,
+    },
+  });
+
+  properties.dataValues.rooms = room;
+  
 
   const response = h.response({
     status: "success",

@@ -1,30 +1,26 @@
-'use strict';
-const {
-  Model
-} = require('sequelize');
-module.exports = (sequelize, DataTypes) => {
-  class Room extends Model {
-    static associate(models) {
+const { DataTypes, Model } = require('sequelize'); // Assuming Sequelize is installed
 
-    }
-  }
-  Room.init({
-    room_name: {
-      type: DataTypes.STRING,
-    },
-    id_property: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-    },
-  }
-  , {
-    sequelize,
-    modelName: 'Room',
-  });
+const sequelize = require("../../config/dbConnect"); // Assuming the connection is defined here
 
-  Room.belongsTo(sequelize.models.Property, {
-    foreignKey: 'id_property',
-  });
+const Property = require("./property");
 
-  return Room;
+const RoomAttributes = {
+  room_name: {
+    type: DataTypes.STRING,
+  },
+  id_property: {
+    type: DataTypes.INTEGER,
+  },
+  createdAt: DataTypes.DATE,
+  updatedAt: DataTypes.DATE,
 };
+
+const Room = class Room extends Model { };
+
+Room.init(RoomAttributes, {
+  sequelize,
+  timestamps: true,
+  underscored: false,
+});
+
+module.exports = Room;
