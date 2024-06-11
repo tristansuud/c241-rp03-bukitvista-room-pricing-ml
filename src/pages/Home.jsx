@@ -1,6 +1,7 @@
 import Body from "./components/Body";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -58,7 +59,7 @@ const Home = () => {
           <div className="container-xl">
             <div className="row row-cards">
               <div className="col-sm-6 col-lg-4">
-                <div className="card card-sm">
+                <Link to="/detail-property/5" className="card card-sm">
                   <a href="#" className="d-block">
                     <img
                       src="./static/photos/beautiful-blonde-woman-relaxing-with-a-can-of-coke-on-a-tree-stump-by-the-beach.jpg"
@@ -120,7 +121,7 @@ const Home = () => {
                       </div>
                     </div>
                   </div>
-                </div>
+                </Link>
               </div>
             </div>
           </div>

@@ -1,4 +1,4 @@
-const Header = () => {
+const Header = (logoSrc, profileSrc) => {
   return (
     <header
       className="navbar navbar-expand-md d-print-none"
@@ -20,7 +20,7 @@ const Header = () => {
         <h1 className="navbar-brand navbar-brand-autodark d-none-navbar-horizontal pe-0 pe-md-3">
           <a href=".">
             <img
-              src="bukitvista-small.svg"
+              src="../../public/bukitvista-small.svg"
               width={32}
               height={32}
               alt="Tabler"
@@ -284,7 +284,7 @@ const Header = () => {
             >
               <span
                 className="avatar avatar-sm"
-                style={{ backgroundImage: "url(photo-profile.png)" }}
+                style={{ backgroundImage: "url(../../public/photo-profile.png)" }}
               />
               <div className="d-none d-xl-block ps-2">
                 <div>Pengunjung Bukit Vista</div>
