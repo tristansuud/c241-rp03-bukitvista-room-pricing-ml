@@ -4,10 +4,10 @@ const dotenv = require("dotenv");
 
 dotenv.config();
 
-const dbName = process.env.DB_NAME;
-const dbHost = process.env.DB_HOST;
-const dbUsername = process.env.DB_USER;
-const dbPassword = process.env.DB_PASSWORD;
+const dbName = "room_pricing";
+const dbHost = "localhost";
+const dbUsername = "root";
+const dbPassword = "";
 const dbDialect = "mysql";
 
 const sequelizeConnection = new Sequelize(dbName, dbUsername, dbPassword, {
