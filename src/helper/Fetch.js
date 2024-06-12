@@ -1,16 +1,16 @@
-import Axios, { AxiosRequestConfig } from "axios";
+import Axios from "axios";
 
 const Http = Axios.create({
-  baseURL: "http://localhost:5502",
+  baseURL: "http://localhost:3077",
   timeout: 1000,
 });
 
 Http.interceptors.request.use(
-  async (req) => {
-    return req;
+  (response) => {
+    return response;
   },
-  (err) => {
-    return Promise.reject(err);
+  (error) => {
+    return Promise.reject(error);
   }
 );
 
