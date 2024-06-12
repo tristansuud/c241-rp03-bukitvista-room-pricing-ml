@@ -19,6 +19,7 @@ const GetPropertyById = async (request, h) => {
     where: {
       id: request.params.id,
     },
+    include: Area,
   });
 
   const room = await Room.findAll({

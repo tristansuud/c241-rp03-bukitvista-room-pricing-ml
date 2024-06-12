@@ -1,0 +1,32 @@
+version: "3"
+
+services:
+  #MongoDB
+  db_service:
+    container_name: database_container
+    image: mysql:latest
+    restart: always
+    ports:
+      - 3306:3306
+    volumes:
+      - ./db_data:/data/db
+    environment:
+      - MYSQL_ROOT_USER=${DB_USER}
+      - MYSQL_ROOT_PASSWORD=${DB_PASSWORD}
+      - MYSQL_DATABASE=${DB_NAME}
+
+  app:
+    container_name: app_container
+    restart: always
+    build: .
+    ports:
+      - 3077:3077
+    depends_on:
+      - db_service
+
+  migration:
+    container_name: migrator
+    build: .
+    depends_on:
+      - db_service
+    command: sh -c 'until nc -z db_service 3306; do sleep 1; done; npx sequelize-cli db:migrate; npx sequelize-cli db:seed:all; echo "Migration done";'
