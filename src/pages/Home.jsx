@@ -61,7 +61,7 @@ const Home = () => {
                             <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
                             <path d="M21 12c-2.4 4 -5.4 6 -9 6c-3.6 0 -6.6 -2 -9 -6c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6" />
                           </svg>
-                          467
+                          { Math.ceil(Math.random() * 1000)}
                         </a>
                         <a href="#" className="ms-3 text-muted">
                           {/* Download SVG icon from http://tabler-icons.io/i/heart */}
@@ -80,7 +80,7 @@ const Home = () => {
                             <path stroke="none" d="M0 0h24v24H0z" fill="none" />
                             <path d="M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572" />
                           </svg>
-                          67
+                          { Math.ceil(Math.random() * 1000)}
                         </a>
                       </div>
                     </div>

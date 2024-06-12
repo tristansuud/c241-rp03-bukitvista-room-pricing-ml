@@ -1,104 +1,209 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import { Link } from "react-router-dom";
+import { useParams } from "react-router-dom";
+import Http from "../helper/Fetch";
 
 const DetailProperty = () => {
+  const [property, setProperty] = useState([]);
+  const [room, setRoom] = useState([]);
+  const { id } = useParams();
+
   useEffect(() => {
-    document.title = "Detail Property";
+    getDetailProperty();
   }, []);
+
+  const getDetailProperty = async () => {
+    try {
+      const response = await Http.get("/properties/" + id);
+      setProperty(response?.data?.data);
+    } catch (error) {
+      console.error(error);
+    }
+  };
+
+  console.log(property);
+
   return (
     <>
       <Header />
       {/* buatkan sebelah kiri setengahnya adalah foto property, sebelah kanan setengahnya informasi tentang property */}
-      <div className="container-xl">
+      <div className="container-xl mt-5">
         <div className="row">
           <div className="col-6">
-            <img
-              src="https://images.unsplash.com/photo-1560185893-8a9b3b5e3f9f"
-              alt="property"
-              className="img-fluid"
-            />
-          </div>
-          <div className="col-6">
-            <h2>Nama Property</h2>
-            <p>Deskripsi Property</p>
-            <p>Alamat Property</p>
-            <p>Harga Property</p>
-            <p>Luas Property</p>
-            <p>Deskripsi Property</p>
-          </div>
-        </div>
-        {/* buatkan daftar card room yang dimiliki property  */}
-        <div className="container-xl">
-          <div className="row row-cards">
-            <div className="col-sm-6 col-lg-4">
-              <Link
-                to="/detail-property/5/detail-room"
-                className="card card-sm"
-              >
-                <a href="#" className="d-block">
-                  <img
-                    src="./static/photos/beautiful-blonde-woman-relaxing-with-a-can-of-coke-on-a-tree-stump-by-the-beach.jpg"
-                    className="card-img-top"
-                  />
-                </a>
-                <div className="card-body">
-                  <div className="d-flex align-items-center">
-                    <span
-                      className="avatar me-3 rounded"
-                      style={{
-                        backgroundImage: "url(./static/avatars/000m.jpg)",
-                      }}
-                    />
-                    <div>
-                      <div>Paweł Kuna</div>
-                      <div className="text-muted">3 days ago</div>
+            <h2>Daftar Room Tersedia di {property.property_name}</h2>
+            <p>Lokasi berada di {property.Area?.area_name}</p>
+            <div
+              id="carousel-captions"
+              class="carousel slide"
+              data-bs-ride="carousel"
+            >
+              <div>
+                <div className="carousel-inner">
+                  {property.rooms?.map((room, index) => (
+                    <div className="carousel-item active" key={index}>
+                      <img
+                        className="d-block w-100"
+                        alt
+                        src="../../../public/defaultImageForVilla.webp"
+                      />
+                      <div className="carousel-caption-background d-none d-md-block" />
+                      <div className="carousel-caption d-none d-md-block">
+                        <h3>{room.room_name}</h3>
+                        <p>
+                          Capacity: {room.capacity}, Bedroom: {room.bedroom}
+                        </p>
+                      </div>
                     </div>
-                    <div className="ms-auto">
-                      <a href="#" className="text-muted">
-                        {/* Download SVG icon from http://tabler-icons.io/i/eye */}
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          className="icon"
-                          width={24}
-                          height={24}
-                          viewBox="0 0 24 24"
-                          strokeWidth={2}
-                          stroke="currentColor"
-                          fill="none"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        >
-                          <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-                          <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
-                          <path d="M21 12c-2.4 4 -5.4 6 -9 6c-3.6 0 -6.6 -2 -9 -6c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6" />
-                        </svg>
-                        467
-                      </a>
-                      <a href="#" className="ms-3 text-muted">
-                        {/* Download SVG icon from http://tabler-icons.io/i/heart */}
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          className="icon"
-                          width={24}
-                          height={24}
-                          viewBox="0 0 24 24"
-                          strokeWidth={2}
-                          stroke="currentColor"
-                          fill="none"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        >
-                          <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-                          <path d="M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572" />
-                        </svg>
-                        67
-                      </a>
-                    </div>
-                  </div>
+                  ))}
                 </div>
-              </Link>
+                <a
+                  className="carousel-control-prev"
+                  href="#carousel-captions"
+                  role="button"
+                  data-bs-slide="prev"
+                >
+                  <span
+                    className="carousel-control-prev-icon"
+                    aria-hidden="true"
+                  />
+                  <span className="visually-hidden">Previous</span>
+                </a>
+                <a
+                  className="carousel-control-next"
+                  href="#carousel-captions"
+                  role="button"
+                  data-bs-slide="next"
+                >
+                  <span
+                    className="carousel-control-next-icon"
+                    aria-hidden="true"
+                  />
+                  <span className="visually-hidden">Next</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="col-6 mt-7">
+            {/* select room id with drop down */}
+            <div className="row mb-2">
+              <div className="col-6">
+                <div class="form-floating">
+                  <select
+                    class="form-select"
+                    id="room_id"
+                    name="room_id"
+                    required
+                    aria-label="Floating label select example"
+                    onChange={(e) => {
+                      const room_id = e.target.value;
+                      const room = property.rooms?.find(
+                        (room) => room.id == room_id
+                      );
+                      document.getElementById("capacity").value = room.capacity;
+                      document.getElementById("bedroom").value = room.bedroom;
+                    }}
+                  >
+                    <option value>Choose...</option>
+                    {property.rooms?.map((room, index) => (
+                      <option value={room.id} key={index}>
+                        {room.room_name}
+                      </option>
+                    ))}
+                  </select>
+                  <label for="floatingSelect">Room</label>
+                </div>
+              </div>
+            </div>
+
+            {/* fill room name base on room id */}
+            {/* fill capacity and bedroom base on room id */}
+            <div className="row mb-2">
+              <div className="col-6">
+                <div class="form-floating">
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="capacity"
+                    placeholder="Capacity"
+                    disabled
+                  />
+                  <label for="capacity">Capacity</label>
+                </div>
+              </div>
+              <div className="col-6">
+                <div class="form-floating">
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="bedroom"
+                    placeholder="Bedroom"
+                    disabled
+                  />
+                  <label for="bedroom">Bedroom</label>
+                </div>
+              </div>
+            </div>
+            {/* select date start and date end */}
+            <div className="row">
+              <div className="col-6 mb-2">
+                <p>Start Booking</p>
+                <input
+                  type="date"
+                  class="form-control"
+                  id="start_date"
+                  required
+                />
+              </div>
+              <div className="col-6">
+                <p>End Booking</p>
+                <input
+                  type="date"
+                  class="form-control"
+                  id="end_date"
+                  required
+                />
+              </div>
+            </div>
+            {/* click predict to predict price */}
+            <div className="row">
+              <div className="col-6">
+                <button
+                  type="button"
+                  className="btn btn-primary"
+                  onClick={() => {
+                    const room_id = document.getElementById("room_id").value;
+                    const start_date =
+                      document.getElementById("start_date").value;
+                    const end_date = document.getElementById("end_date").value;
+                    const price = Math.ceil(Math.random() * 1000);
+                    const duration = Math.ceil(
+                      (new Date(end_date) - new Date(start_date)) /
+                        (1000 * 60 * 60 * 24)
+                    );
+                    console.log(duration);
+                    console.log(price);
+                    const total_price = price * duration;
+                    document.getElementById("total_price").value = total_price;
+                  }}
+                >
+                  Predict Price
+                </button>
+              </div>
+            </div>
+            {/* show price in label */}
+            <div className="col-6 mt-2">
+              <div class="form-floating">
+                <input
+                  type="text"
+                  class="form-control"
+                  id="total_price"
+                  placeholder="Total Price"
+                  disabled
+                />
+                <label for="total_price">Total Price</label>
+              </div>
             </div>
           </div>
         </div>

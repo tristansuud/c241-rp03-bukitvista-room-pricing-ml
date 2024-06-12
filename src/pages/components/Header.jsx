@@ -314,7 +314,7 @@ const Header = (logoSrc, profileSrc) => {
         <div className="collapse navbar-collapse" id="navbar-menu">
           <ul className="navbar-nav">
             <li className="nav-item active">
-              <a className="nav-link" href="./">
+              <a className="nav-link" href="/">
                 <span className="nav-link-icon d-md-none d-lg-inline-block">
                   {/* Download SVG icon from http://tabler-icons.io/i/star */}
                   <svg
