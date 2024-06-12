@@ -40,7 +40,7 @@ const Home = () => {
                     <div className="d-flex align-items-center">
                       <div>
                         <div>{item.property_name}</div>
-                        <div className="text-muted">{}</div>
+                        <div className="text-muted">{item.Area.area_name}</div>
                       </div>
                       <div className="ms-auto">
                         <a href="#" className="text-muted">
