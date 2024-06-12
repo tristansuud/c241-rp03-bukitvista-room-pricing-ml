@@ -1,7 +1,7 @@
 import Axios from "axios";
 
 const Http = Axios.create({
-  baseURL: "http://localhost:3077",
+  baseURL: "http://34.101.58.115:3077",
   timeout: 1000,
 });
 
