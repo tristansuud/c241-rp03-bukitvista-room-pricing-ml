@@ -9,4 +9,7 @@ export default defineConfig({
     'process.env.PUBLIC_URL': JSON.stringify(env.PUBLIC_URL)
   },
   plugins: [react()],
+  server: {
+    port: 8080,
+  },
 })
