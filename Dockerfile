@@ -1,4 +1,7 @@
 FROM node:18
+
+ENV HOST 0.0.0.0
+
 WORKDIR /app
 COPY . .
 RUN npm install
