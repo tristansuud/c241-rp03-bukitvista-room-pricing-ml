@@ -8,17 +8,11 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.STRING
       },
-      property_name: {
-        type: Sequelize.STRING
+      property_design: {
+        type: Sequelize.INTEGER
       },
-      id_area: {
-        type: Sequelize.STRING,
-        references: {
-          model: 'Areas',
-          key: 'id'
-        },
-        onUpdate: 'CASCADE',
-        onDelete: 'CASCADE'
+      property_type: {
+        type: Sequelize.INTEGER,
       },
       createdAt: {
         allowNull: false,

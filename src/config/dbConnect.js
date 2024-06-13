@@ -7,7 +7,7 @@ dotenv.config();
 const dbName = "room_pricing";
 const dbHost = "localhost";
 const dbUsername = "root";
-const dbPassword = "";
+const dbPassword = "cobacobacoba";
 const dbDialect = "mysql";
 
 const sequelizeConnection = new Sequelize(dbName, dbUsername, dbPassword, {
