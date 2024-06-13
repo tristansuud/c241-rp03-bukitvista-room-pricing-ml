@@ -4,8 +4,13 @@ handlers:
   - url: /(.*\..+)$
     static_files: dist/\1
     upload: dist/(.*\..+)$
+    # set to http only
+    secure: never
+
   
   # Serve index.html for all other routes
   - url: /.*
     static_files: dist/index.html
     upload: dist/index.html
+    # set to http only
+    secure: never
