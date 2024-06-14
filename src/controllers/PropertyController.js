@@ -1,9 +1,8 @@
 const Property = require("../db/models/property");
 const Room = require("../db/models/room");
-const Area = require("../db/models/area");
 
 const GetAllProperties = async (request, h) => {
-  const properties = await Property.findAll({include: Area});
+  const properties = await Property.findAll();
 
   const response = h.response({
     status: "success",
@@ -18,8 +17,7 @@ const GetPropertyById = async (request, h) => {
   const properties = await Property.findOne({
     where: {
       id: request.params.id,
-    },
-    include: Area,
+    }
   });
 
   const room = await Room.findAll({

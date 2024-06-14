@@ -104,7 +104,7 @@ module.exports = {
       lat: {
         type: Sequelize.INTEGER
       },
-      Ing: {
+      lng: {
         type: Sequelize.INTEGER
       },
       distance_to_coastline: {
@@ -149,6 +149,27 @@ module.exports = {
       avg_price_total_fas:{
         type: Sequelize.DECIMAL
       },
+      rating:{
+        type: Sequelize.DECIMAL
+      },
+      review_sentiment_score:{
+        type: Sequelize.DECIMAL
+      },
+      communication:{
+        type: Sequelize.DECIMAL
+      },
+      cleanliness:{
+        type: Sequelize.DECIMAL
+      },
+      accuracy:{
+        type: Sequelize.DECIMAL
+      },
+      price_fluctuation:{
+        type: Sequelize.DECIMAL
+      },
+      total_review_score:{
+        type: Sequelize.DECIMAL
+      },
       id_property: {
         type: Sequelize.STRING,
         references: {
@@ -172,3 +193,10 @@ module.exports = {
     await queryInterface.dropTable('Rooms');
   }
 };
+
+// dimasukkan user
+//  month: DataTypes.STRING,
+//   contain_national_holiday: DataTypes.BOOLEAN,
+//   stay_duration: DataTypes.INTEGER,
+//   booking_day_of_week: DataTypes.INTEGER,
+//   booking_lead_time: DataTypes.INTEGER,
