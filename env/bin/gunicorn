@@ -1,8 +1,0 @@
-#!/Users/attafriski/Documents/Undip/Sem.6/Bangkit/capstone/c241-rp03-bukitvista-room-pricing-ml/env/bin/python3.12
-# -*- coding: utf-8 -*-
-import re
-import sys
-from gunicorn.app.wsgiapp import run
-if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
-    sys.exit(run())
