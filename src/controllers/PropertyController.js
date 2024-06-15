@@ -8,7 +8,7 @@ const GetAllProperties = async (request, h) => {
     status: "success",
     data: properties,
   });
-  response.code(201);
+  response.code(200);
   return response;
 };
 
@@ -33,7 +33,7 @@ const GetPropertyById = async (request, h) => {
     status: "success",
     data: properties,
   });
-  response.code(201);
+  response.code(200);
   return response;
 };
 
