@@ -1,11 +1,8 @@
 from flask import Flask, request
 from dotenv import load_dotenv
-import os
 from flask_cors import CORS
-import pickle
 import numpy as np
 import joblib
-import pandas as pd
 from sklearn.pipeline import Pipeline
 
 load_dotenv()
@@ -20,6 +17,7 @@ def predict():
     if request.method == 'POST':
         try:
             data = request.json
+            print(data)
             data_list = list(data.values())
             # print(data_list)
             sampleX = np.array(data_list,dtype=object).reshape(1,48)
