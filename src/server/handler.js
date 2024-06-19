@@ -87,15 +87,10 @@ async function roomPricePredictHandler(request, h) {
       id: request.params.room_id,
     },
   });
-
-  const property = await Property.findOne({
-    where: {
-      id: room.id_property,
-    },
-  });
+  
   // send the data to the model
   const prediction = await HttpML.post("/api/v1/predict-room-price", {
-    average_baseline_price: request.payload.base_price,
+    average_baseline_price: request.payload.basePrice,
     rating: room.rating,
     review_sentiment_score: room.review_sentiment_score,
     communication: room.communication,
