@@ -1,4 +1,8 @@
 # BukitVista Room Pricing ML
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
 Machine learning-powered predictive room price estimation for [BukitVista](https://www.bukitvista.com/), a Bali-based property management company. Built as a 2024 capstone project.
 
